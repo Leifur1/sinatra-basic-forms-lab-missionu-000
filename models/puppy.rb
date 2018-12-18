@@ -7,3 +7,4 @@ class puppies
     @breed = bread
     @age = age
   end
+end
